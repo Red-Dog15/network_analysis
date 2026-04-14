@@ -10,3 +10,6 @@
 # Keep only output2 folder contents 
 !analysis/output2/
 !analysis/output2/**
+
+!analysis/scripts/
+!analysis/scripts/**
