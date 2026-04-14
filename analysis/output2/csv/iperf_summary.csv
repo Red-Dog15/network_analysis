@@ -1,0 +1,17 @@
+run_id,target,status,command,timestamp,sender_transfer,sender_rate,sender_rate_mbps,sender_retransmits,receiver_transfer,receiver_rate,receiver_rate_mbps,source_file
+20260310_145222,192.168.50.1,command_failed,iperf3 -c 192.168.50.1,Tue 10 Mar 14:52:22 GMT 2026,,,,,,,,network-analysis2\20260310_145222\iperf_192.168.50.1.txt
+20260310_145410,192.168.111.1,command_failed,iperf3 -c 192.168.111.1,Tue 10 Mar 14:54:10 GMT 2026,,,,,,,,network-analysis2\20260310_145410\iperf_192.168.111.1.txt
+20260310_153521,192.168.70.142,ok,iperf3 -c 192.168.70.142,Tue 10 Mar 15:35:21 GMT 2026,705MBytes,939Mbits/sec,939.0,0,,,,network-analysis2\20260310_153521\iperf_192.168.70.142.txt
+20260310_154624,192.168.26.143,ok,iperf3 -c 192.168.26.143,Tue 10 Mar 15:46:24 GMT 2026,10.4MBytes,20.4Mbits/sec,20.4,0,,,,network-analysis2\20260310_154624\iperf_192.168.26.143.txt
+20260310_154741,192.168.26.148,ok,iperf3 -c 192.168.26.148,Tue 10 Mar 15:47:41 GMT 2026,6.35MBytes,20.6Mbits/sec,20.6,0,,,,network-analysis2\20260310_154741\iperf_192.168.26.148.txt
+20260310_155009,192.168.61,command_failed,iperf3 -c 192.168.61,Tue 10 Mar 15:50:09 GMT 2026,,,,,,,,network-analysis2\20260310_155009\iperf_192.168.61.txt
+20260310_155020,192.168.143,command_failed,iperf3 -c 192.168.143,Tue 10 Mar 15:50:20 GMT 2026,,,,,,,,network-analysis2\20260310_155020\iperf_192.168.143.txt
+20260317_140506,192.168.20.1,ok,iperf3 -c 192.168.20.1,Tue 17 Mar 14:05:06 GMT 2026,1.09GBytes,938Mbits/sec,938.0,0,,,,network-analysis2\20260317_140506\iperf_192.168.20.1.txt
+20260317_140627,192.168.20.60,ok,iperf3 -c 192.168.20.60,Tue 17 Mar 14:06:27 GMT 2026,1.09GBytes,938Mbits/sec,938.0,0,1.09GBytes,936Mbits/sec,936.0,network-analysis2\20260317_140627\iperf_192.168.20.60.txt
+20260317_142032,192.168.20.1,ok,iperf3 -c 192.168.20.1,Tue 17 Mar 14:20:32 GMT 2026,31.8MBytes,26.7Mbits/sec,26.7,0,30.6MBytes,25.6Mbits/sec,25.6,network-analysis2\20260317_142032\iperf_192.168.20.1.txt
+20260317_142142,192.168.120.1,ok,iperf3 -c 192.168.120.1,Tue 17 Mar 14:21:42 GMT 2026,27.3MBytes,22.9Mbits/sec,22.9,0,24.5MBytes,20.4Mbits/sec,20.4,network-analysis2\20260317_142142\iperf_192.168.120.1.txt
+20260317_142200,192.168.120.61,ok,iperf3 -c 192.168.120.61,Tue 17 Mar 14:22:00 GMT 2026,7.90MBytes,6.63Mbits/sec,6.63,41,7.44MBytes,6.13Mbits/sec,6.13,network-analysis2\20260317_142200\iperf_192.168.120.61.txt
+20260317_142507,192.168.120.1,ok,iperf3 -c 192.168.120.1,Tue 17 Mar 14:25:07 GMT 2026,1.09GBytes,938Mbits/sec,938.0,0,1.09GBytes,936Mbits/sec,936.0,network-analysis2\20260317_142507\iperf_192.168.120.1.txt
+20260317_142552,192.168.120.61,ok,iperf3 -c 192.168.120.61,Tue 17 Mar 14:25:52 GMT 2026,31.1MBytes,26.1Mbits/sec,26.1,0,29.1MBytes,23.2Mbits/sec,23.2,network-analysis2\20260317_142552\iperf_192.168.120.61.txt
+20260317_150201,192.168.20.1,ok,iperf3 -c 192.168.20.1,Tue 17 Mar 15:02:01 GMT 2026,34.0MBytes,28.5Mbits/sec,28.5,0,32.0MBytes,26.8Mbits/sec,26.8,network-analysis2\20260317_150201\iperf_192.168.20.1.txt
+20260317_150232,192.168.20.61,command_failed,iperf3 -c 192.168.20.61,Tue 17 Mar 15:02:32 GMT 2026,,,,,,,,network-analysis2\20260317_150232\iperf_192.168.20.61.txt

@@ -1,0 +1,5 @@
+status,count
+command_failed,12
+ok,27
+tool_missing,9
+tshark_missing,18

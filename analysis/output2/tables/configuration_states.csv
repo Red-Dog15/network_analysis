@@ -1,0 +1,4 @@
+"snapshot","ip_addr","ip_route","summary"
+"20260310_153321","network-analysis2/20260310_153321/ip_addr.txt","network-analysis2/20260310_153321/ip_route.txt","eth0,wlan0,wlan1 up; default via 172.19.216.1"
+"20260317_142001","network-analysis2/20260317_142001/ip_addr.txt","network-analysis2/20260317_142001/ip_route.txt","wlan0,wlan1 up; eth0 down"
+"20260317_142648","network-analysis2/20260317_142648/ip_addr.txt","network-analysis2/20260317_142648/ip_route.txt","eth0 up; wlan0,wlan1 down; default via 192.168.20.1"

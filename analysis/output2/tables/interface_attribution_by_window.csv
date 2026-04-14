@@ -1,0 +1,5 @@
+"window","inferred_interface_state","ping_ok_runs","iperf_ok_runs","total_ok_runs","state_evidence"
+"20260310_153321_to_20260310_155020","eth0+wlan0+wlan1 up; default via wlan0","3","3","6","network-analysis2/20260310_153321/ip_addr.txt + ip_route.txt"
+"20260317_135201_to_20260317_140627","state unknown (no config snapshot in this interval)","3","2","5","no ip_addr/ip_route snapshot between these run IDs"
+"20260317_142001_to_20260317_142647","wlan0+wlan1 up; eth0 down","5","5","10","network-analysis2/20260317_142001/ip_addr.txt"
+"20260317_142648_to_20260317_150232","eth0 up; wlan0+wlan1 down; default via eth0","1","1","2","network-analysis2/20260317_142648/ip_addr.txt + ip_route.txt"

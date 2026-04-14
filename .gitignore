@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Keep this file tracked
+!.gitignore
+
+# Allow traversal into folders so explicit includes below work
+!*/
+
+# Keep only output2 folder contents 
+!analysis/output2/
+!analysis/output2/**
